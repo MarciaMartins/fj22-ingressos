@@ -150,10 +150,10 @@
         </plugins>
     </build>
     	<developers>
-									<developer>
-													<name>Marcia Martins</name>
-													<email>mm@example.com</email>
-									</developer>
-    
-
+				<developer>
+					<name>Marcia Martins</name>
+					<email>mm@example.com</email>
+				</developer>
+    	
+		</developers>
 </project>
